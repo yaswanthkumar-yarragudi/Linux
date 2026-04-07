@@ -29,6 +29,6 @@ If you create a script on Windows or with the wrong local settings, it may be co
 You can fix permissions directly in the Git index without relying on your operating system's file explorer.
 
 ### Check Current File Modes
-To see how Git is currently tracking your files:
+To see how Git is currently tracking your file:
 ```bash
 git ls-files --stage
