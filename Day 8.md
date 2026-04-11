@@ -6,7 +6,7 @@ You can use basic logic to automate repetitive tasks like creating files or chec
 ---
 
 ## 🔹 1. Variables
-Variables store information you want to reuse.  
+Variables store information you want to reuse.
 ⚠️ Note: No spaces around `=` sign.
 
 ```bash
